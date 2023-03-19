@@ -1,5 +1,5 @@
 <table>
-  <td align="center">
+  <td>
     <p>
       <h3Hello and welcome to my GitHub profile!</h3>
       👀 &nbsp;I am a passionate software developer with a strong interest in creating efficient and innovative solutions.
