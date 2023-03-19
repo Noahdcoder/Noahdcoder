@@ -1,7 +1,7 @@
 <table>
   <td>
     <p>
-      <h3Hello and welcome to my GitHub profile!</h3>
+      <h3>Hello and welcome to my GitHub profile!</h3>
       👀 &nbsp;I am a passionate software developer with a strong interest in creating efficient and innovative solutions.
       </br>
       🚀 &nbsp;With several years of experience in the industry, I have gained expertise in developing software applications and contributing to open-source projects.
