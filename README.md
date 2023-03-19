@@ -18,7 +18,7 @@
 </table>
 
 ## Technologies I use:
-<table>
+<table style="width:100%;">
   <tr>
       <td>
       <p align="center">
